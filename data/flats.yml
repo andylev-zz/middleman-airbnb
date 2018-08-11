@@ -1,0 +1,46 @@
+ssaunier:
+  name: "Sebastien"
+  description: "based in Paris"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  maxium number of guests: 4
+papillard:
+  name: "Boris'"
+  description: orignally paris now Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  maxium number of guests: 4
+monsieurpaillard:
+  name: Romain
+  description: based  in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  maxium number of guests: 4
+Leonard :
+  name: Leonard
+  description: based  in Shoreditch
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  maxium number of guests: 4
+Sarah :
+  description: based  in Berlin
+  city_name: "Berlin, Germany"
+  city_slug: "Berlin"
+  wifi: true
+  rating: 5
+  maxium number of guests: 4
+Alex :
+  description: From Austria
+  city_name: "Berlin, Germany"
+  city_slug: "Berlin"
+  wifi: true
+  rating: 5
+  maxium number of guests: 4
